@@ -1,5 +1,4 @@
-# Project--02-Login-Page
-This is my first HTML and CSS project
+# Project--02-Login-Page-Design-01
 
 I have made the project with HTML $ CSS
 
