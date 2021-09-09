@@ -1,6 +1,6 @@
 # Project--02-Login-Page-Design-01
 
-Created with HTML $ CSS
+Created with HTML & CSS
 
 The images collected from -> [Flaticon](https://www.flaticon.com) <br>
 The background image collected from -> [Freepik](https://www.freepik.com)
