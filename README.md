@@ -7,7 +7,7 @@ The background image collected from -> [Freepik](https://www.freepik.com)
 
 Full Project Link : [GitHub](https://github.com/saadman-galib/Login-Page-design-01)
 
-Live link: [github.io](https://saadman-galib.github.io/Login-Page-design-01/)
+Live link: [Netlify](https://login-page-01-saadman.netlify.app/)
 
 ## Contact
 
