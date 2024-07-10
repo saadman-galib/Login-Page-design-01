@@ -13,4 +13,3 @@ Live link: [Netlify](https://login-page-01-saadman.netlify.app/)
 
 - GitHub [@saadman-galib](https://www.github.com/saadman-galib)
 - Twitter [@GalibSaadman](https://www.twitter.com/GalibSaadman)
-- Facebok Page [@Saadman Codes](https://www.facebook.com/saadman.codes/)
